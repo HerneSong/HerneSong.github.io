@@ -8,8 +8,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>Chicago, IL 60607</p>
+    <p>Picture taken at <a href='https://www.google.com/maps/place/Elliott+Bay/@47.6192214,-122.3859112,13z/data=!3m1!4b1!4m6!3m5!1s0x54904006b1d74e05:0xe0c72a39a0ca250e!8m2!3d47.6074272!4d-122.3708329!16zL20vMDFteTZ4?entry=ttu'>Elliot Bay</a>, Seattle</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
