@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Illinois Chicago</a>. Email zsong29@uic.edu.
+subtitle: <a href='#'>University of Illinois Chicago</a>. Email zsong29[at]uic[dot]edu
 
 profile:
   align: right
