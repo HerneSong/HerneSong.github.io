@@ -15,7 +15,7 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hi, this is Zihe Song, a first-year PhD student at UIC CS department. I am a member of <a href='https://bdsc.lab.uic.edu/'>Big Data and Social Computing (BDSC) lab</a>, supervised by Prof. Philip Yu. My current research interests are data mining, recommendation systems and machine learning. Before joining UIC, I obtained my bachelor's degree and master's degree at Hunan University and University of Washington, respectively.
+Hi, this is Zihe Song, a second-year PhD student at UIC CS department. I am a member of <a href='https://bdsc.lab.uic.edu/'>Big Data and Social Computing (BDSC) lab</a>, supervised by Prof. Philip Yu. My current research interests are graph learning and generative models. Before joining UIC, I obtained my bachelor's degree and master's degree at Hunan University and University of Washington, respectively.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
